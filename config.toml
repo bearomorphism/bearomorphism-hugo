@@ -1,7 +1,6 @@
-title = 'My New Hugo Site'
-theme = "ananke"
 baseurl = "/"
 languageCode = "en-us"
+theme = "terminal"
 paginate = 5
 
 [params]
