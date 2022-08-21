@@ -24,3 +24,9 @@ identifier = "about"
 name = "about"
 url = "/about/"
 weight = 5
+
+[[menu.main]]
+identifier = "CV"
+name = "CV"
+url = "/files/bearomorphism_cv.pdf"
+weight = 40
