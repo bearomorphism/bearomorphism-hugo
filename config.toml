@@ -28,5 +28,5 @@ weight = 5
 [[menu.main]]
 identifier = "CV"
 name = "CV"
-url = "/files/bearomorphism_cv.pdf"
+url = "https://drive.google.com/file/d/1qeMsSqrg8v4ka4Y4vy4CpF0oeV4aJxay/view"
 weight = 40
