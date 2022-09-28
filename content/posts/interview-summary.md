@@ -11,8 +11,9 @@ tags: ["面試"]
 1. 履歷要記得多給其他有經驗的朋友看過，差很多。
 2. 面試時如果可以的話記得要 feedback，即自己有沒有需要進步的地方，有問有差。
 3. 線上程式測驗 (OA) 只是入場門票，有刷過題一般來說就不會太難。
-4. 不要怕找一些不認識的人問問題，以我的個人經驗來說，只要有一些基本禮儀、不要太伸手牌，通常大家都是願意幫忙的。這一點是跟面試模擬訓練好夥伴[陳翰儒](https://www.linkedin.com/in/han-ru-chen-734816248/)學的。
-5. 可以的話，練習一邊 coding 一邊講自己在做啥。可以看這一系列的影片了解面試流程。 [Google Coding Interview With A Normal Software Engineer - YouTube](https://www.youtube.com/watch?v=rw4s4M3hFfs)
+4. 不要說自己很熟 C++ 。
+5. 不要怕找一些不認識的人問問題，以我的個人經驗來說，只要有一些基本禮儀、不要太伸手牌，通常大家都是願意幫忙的。這一點是跟面試模擬訓練好夥伴[陳翰儒](https://www.linkedin.com/in/han-ru-chen-734816248/)學的。
+6. 可以的話，練習一邊 coding 一邊講自己在做啥。可以看這一系列的影片了解面試流程。 [Google Coding Interview With A Normal Software Engineer - YouTube](https://www.youtube.com/watch?v=rw4s4M3hFfs)
 
 ## 個人背景和經歷
 
