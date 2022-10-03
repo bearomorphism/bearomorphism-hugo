@@ -1,7 +1,6 @@
 ---
 title: "[Math] Uncountable summation diverges"
 date: 2022-10-03T19:06:42+08:00
-draft: true
 math: true
 tags: ["math"]
 ---
