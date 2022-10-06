@@ -8,6 +8,18 @@ paginate = 5
 env = "production"
 
 [[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 5
+
+[[menu.main]]
+identifier = "math-random-notes"
+name = "random-math"
+url = "/math-random-notes/"
+weight = 7
+
+[[menu.main]]
 identifier = "categories"
 name = "categories"
 url = "/categories/"
@@ -18,12 +30,6 @@ identifier = "tags"
 name = "tags"
 url = "/tags/"
 weight = 20
-
-[[menu.main]]
-identifier = "about"
-name = "about"
-url = "/about/"
-weight = 5
 
 [[menu.main]]
 identifier = "CV"
