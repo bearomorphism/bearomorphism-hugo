@@ -1,5 +1,5 @@
 ---
-title: "Quantum Algorithm"
+title: "Quantum Algorithm Notes"
 date: 2022-10-08T12:41:57+08:00
 math: true
 tags: ["math"]
