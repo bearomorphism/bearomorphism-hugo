@@ -16,7 +16,7 @@ weight = 5
 [[menu.main]]
 identifier = "math-random-notes"
 name = "random-math"
-url = "/math-random-notes/"
+url = "/posts/math-random-notes/"
 weight = 7
 
 [[menu.main]]
