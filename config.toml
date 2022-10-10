@@ -20,6 +20,12 @@ url = "/todo/"
 weight = 1
 
 [[menu.main]]
+identifier = "quotes"
+name = "quotes"
+url = "/quotes/"
+weight = 3
+
+[[menu.main]]
 identifier = "math-random-notes"
 name = "random-math"
 url = "/posts/math-random-notes/"
