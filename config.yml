@@ -1,0 +1,37 @@
+title: Yu-Ting Hsiung
+baseurl: /
+languageCode: en-us
+theme: PaperMod
+paginate: 5
+params:
+  env: production
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 5
+    - identifier: todo
+      name: todo
+      url: /todo/
+      weight: 1
+    - identifier: quotes
+      name: quotes
+      url: /quotes/
+      weight: 3
+    - identifier: math-random-notes
+      name: random-math
+      url: /posts/math-random-notes/
+      weight: 7
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: CV
+      name: CV
+      url: 'https://drive.google.com/file/d/1qeMsSqrg8v4ka4Y4vy4CpF0oeV4aJxay/view'
+      weight: 40
