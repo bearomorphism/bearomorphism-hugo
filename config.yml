@@ -5,6 +5,9 @@ theme: PaperMod
 paginate: 5
 params:
   env: production
+  homeInfoParams:
+    Title: Hi
+    Content: 這裡還很亂，歡迎隨意看看
 menu:
   main:
     - identifier: archives
