@@ -7,6 +7,10 @@ params:
   env: production
 menu:
   main:
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 2
     - identifier: about
       name: about
       url: /about/
