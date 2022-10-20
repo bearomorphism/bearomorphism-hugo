@@ -1,7 +1,7 @@
 ---
 title: "A Finite Commutative Ring Without Zero Divisors Is a Field"
 date: 2022-10-08T12:54:34+08:00
-draft: true
+tags: ["math"]
 math: true
 ---
 

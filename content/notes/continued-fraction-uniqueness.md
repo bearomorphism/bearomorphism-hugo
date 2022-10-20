@@ -1,6 +1,7 @@
 ---
 title: "[Math] Uniqueness of Continued Fraction Representation of Rational Numbers"
 date: 2022-10-05T16:52:06+08:00
+tags: ["math"]
 math: true
 ---
 
