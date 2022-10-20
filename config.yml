@@ -41,36 +41,24 @@ menu:
     - identifier: search
       name: Search
       url: /search/
-      weight: 1
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 15
     - identifier: archives
       name: Archive
       url: /archives/
-      weight: 2
-    - identifier: about
-      name: about
-      url: /about/
-      weight: 5
-    - identifier: todo
-      name: todo
-      url: /todo/
-      weight: 4
-    - identifier: quotes
-      name: quotes
-      url: /quotes/
-      weight: 3
-    - identifier: math-random-notes
-      name: random-math
-      url: /posts/math-random-notes/
-      weight: 7
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
       weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
     - identifier: CV
       name: CV
       url: 'https://drive.google.com/file/d/1qeMsSqrg8v4ka4Y4vy4CpF0oeV4aJxay/view'
       weight: 40
+    - identifier: random-notes
+      name: Notes
+      url: /posts/math-random-notes/
+      weight: 70

@@ -6,13 +6,23 @@ title: "About"
 
 這裡大概會放一些生活雜記或者體悟。
 
-## Contact Me
-
-* Mail: bear890707@gmail.com
-* GitHub: [bearomorphism](https://github.com/bearomorphism)
-* LinkedIn: [熊育霆](https://www.linkedin.com/in/%E8%82%B2%E9%9C%86-%E7%86%8A-4622171b4/)
-
 ## Random Stuff
 
 * [LeetCode](https://leetcode.com/Mrbear666/)
-* [Strava](https://www.strava.com/athletes/33243038)
+
+## 此網誌待辦事項
+
+- [ ] 整理環島心得
+- [ ] 整理創業經驗
+- [ ] 整理這幾年當助教和授課講師的心得
+- [ ] 添加 update date 欄位，並修改模板使得
+- [x] 研究 hugo 怎麼放評論區 (2022/10/20)
+- [x] 把待辦清單列下來 (2022/10/10)
+
+## Quoted
+
+> 錯誤並不是用來咎責的工具，而是學習的機會。
+
+> 基本群並不基本。
+
+> 環同態的核是一個理想。你，有理想嗎？
