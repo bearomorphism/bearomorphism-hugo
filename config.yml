@@ -46,6 +46,10 @@ menu:
       name: About
       url: /about/
       weight: 15
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 17
     - identifier: archives
       name: Archive
       url: /archives/
