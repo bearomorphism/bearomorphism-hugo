@@ -1,6 +1,8 @@
 title: Yu-Ting Hsiung
 baseurl: /
-languageCode: en-us
+languageCode: zh-TW
+defaultContentLanguage: zh-tw
+hasCJKLanguage: true # 字數統計計入中文
 theme: PaperMod
 paginate: 5
 params:
@@ -12,6 +14,7 @@ params:
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowFullTextinRSS: true
+  ShowWordCount: true
   defaultTheme: dark
   comments: true
   socialIcons:
