@@ -15,8 +15,12 @@ params:
   ShowPostNavLinks: true
   ShowFullTextinRSS: true
   ShowWordCount: true
+  ShowPostNavLinks: true
   defaultTheme: dark
   comments: true
+  editPost:
+    URL: "https://github.com/bearomorphism/bearomorphism-hugo"
+    Text: "Suggest Changes" # edit text
   socialIcons:
     - name: github
       url: "https://github.com/bearomorphism"
