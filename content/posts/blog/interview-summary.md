@@ -1,6 +1,6 @@
 ---
 title: "2022面試找工作經驗分享"
-date: 2022-09-27T18:43:15+08:00
+date: 2022-10-20
 tags: ["面試"]
 ---
 
@@ -32,5 +32,6 @@ tags: ["面試"]
 
 ## 面試心得文章連結
 
-* [\[面試心得\] Kronos](../interview-kronos)
-* [\[面試心得\] CMoney (全曜財經)](../interview-cmoney)
+* [Kronos](../interview-kronos)
+* [CMoney (全曜財經)](../interview-cmoney)
+* [AICS](../interview-aics)
