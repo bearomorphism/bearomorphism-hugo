@@ -19,8 +19,9 @@ params:
   defaultTheme: dark
   comments: true
   editPost:
-    URL: "https://github.com/bearomorphism/bearomorphism-hugo"
+    URL: "https://github.com/bearomorphism/bearomorphism-hugo/edit/main/content"
     Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
   socialIcons:
     - name: github
       url: "https://github.com/bearomorphism"
