@@ -15,6 +15,19 @@ params:
   ShowFullTextinRSS: true
   defaultTheme: dark
   comments: true
+  socialIcons:
+    - name: github
+      url: "https://github.com/bearomorphism"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/%E8%82%B2%E9%9C%86-%E7%86%8A-4622171b4/"
+    - name: facebook
+      url: "https://www.facebook.com/yu.ting.hsiung.bearomorphism/"
+    - name: instagram
+      url: "https://www.instagram.com/bearomorphism/"
+    - name: strava
+      url: "https://www.strava.com/athletes/33243038"
+    - name: cv
+      url: "https://drive.google.com/file/d/1qeMsSqrg8v4ka4Y4vy4CpF0oeV4aJxay/view"
 disqusShortname: yu-ting-hsiung
 outputs:
   home:
