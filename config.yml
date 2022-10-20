@@ -8,8 +8,23 @@ params:
   homeInfoParams:
     Title: Hi
     Content: 這裡還很亂，歡迎隨意看看
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  comments: true
+disqusShortname: yu-ting-hsiung
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 menu:
   main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 1
     - identifier: archives
       name: Archive
       url: /archives/
@@ -21,7 +36,7 @@ menu:
     - identifier: todo
       name: todo
       url: /todo/
-      weight: 1
+      weight: 4
     - identifier: quotes
       name: quotes
       url: /quotes/
