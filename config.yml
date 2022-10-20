@@ -12,6 +12,8 @@ params:
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
+  ShowFullTextinRSS: true
+  defaultTheme: dark
   comments: true
 disqusShortname: yu-ting-hsiung
 outputs:
