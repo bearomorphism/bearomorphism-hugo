@@ -28,7 +28,7 @@ AICS 應該算是近期又紅起來的團隊，業務大概是在做「智慧醫
 
 前兩關也是考 coding 題，大概也是 leetcode medium 的難度，跟第一關差不多。我那時已經至少刷了500題了，解那些問題基本上很順。
 
-特別拿出來提一下，第二關考的題目是 [Jump Game III - LeetCode](https://leetcode.com/problems/jump-game-iii/)，我一開始是給出了很爛的 $O(N^2)$ 的 DP 解，面試官給出了很多 follow up 後我才想到一個 $O(N)$ 解。
+特別拿出來提一下，第二關考的題目是 [Jump Game II - LeetCode](https://leetcode.com/problems/jump-game-ii/)，我一開始是給出了很爛的 $O(N^2)$ 的 DP 解，面試官給出了很多 follow up 後我才想到一個 $O(N)$ 解。
 
 第三關是主管直接來面試，也是一樣簡介了公司最近的狀況，並且跟我聊一些我以前做過的事情。我覺得主管還蠻真誠的，雖然隔了一道螢幕，但感覺他會用心對待每一位員工和面試者。
 
