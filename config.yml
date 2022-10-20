@@ -6,8 +6,8 @@ paginate: 5
 params:
   env: production
   homeInfoParams:
-    Title: Hi
-    Content: 這裡還很亂，歡迎隨意看看
+    Title: 嗨，你今天過得好嗎？
+    Content: 要看比較有知識點的東西可以看看[這裡](/blog)，或者點一些底下的 icon
   ShowShareButtons: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
