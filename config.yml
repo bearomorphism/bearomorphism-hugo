@@ -60,5 +60,5 @@ menu:
       weight: 40
     - identifier: random-notes
       name: Notes
-      url: /posts/math-random-notes/
+      url: /notes/
       weight: 70
