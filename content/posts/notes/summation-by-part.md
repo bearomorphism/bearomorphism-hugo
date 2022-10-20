@@ -1,5 +1,5 @@
 ---
-title: "[Math] Summation by Part"
+title: "Summation by Part"
 date: 2022-10-05T13:33:15+08:00
 math: true
 tags: ["math"]

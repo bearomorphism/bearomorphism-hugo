@@ -1,5 +1,5 @@
 ---
-title: "[Math] Q8 is not Isomorphic to any subgroup of S7"
+title: "Q8 is not Isomorphic to any subgroup of S7"
 date: 2022-10-04T11:05:53+08:00
 math: true
 tags: ["math", "abstract algebra"]

@@ -1,5 +1,5 @@
 ---
-title: "[Math] Partitions of Unity"
+title: "Partitions of Unity"
 date: 2022-10-06
 math: true
 tags: ["math"]

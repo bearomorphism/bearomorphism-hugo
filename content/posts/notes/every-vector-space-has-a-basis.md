@@ -1,5 +1,5 @@
 ---
-title: "[Math] Every Vector Space Has a Basis"
+title: "Every Vector Space Has a Basis"
 date: 2022-10-03T20:19:18+08:00
 math: true
 tags: ["math", "linear algebra"]
