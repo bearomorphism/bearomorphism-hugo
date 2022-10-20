@@ -1,5 +1,3 @@
 ---
-url: "notes"
+Title: 隨便的筆記
 ---
-
-Some random notes about mathematics.

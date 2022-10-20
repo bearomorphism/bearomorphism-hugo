@@ -47,7 +47,7 @@ menu:
       weight: 15
     - identifier: blog
       name: Blog
-      url: /blog/
+      url: /posts/blog/
       weight: 17
     - identifier: archives
       name: Archive
@@ -63,5 +63,5 @@ menu:
       weight: 40
     - identifier: random-notes
       name: Notes
-      url: /notes/
+      url: /posts/notes/
       weight: 70
