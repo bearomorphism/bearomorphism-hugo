@@ -4,7 +4,7 @@ languageCode: zh-TW
 defaultContentLanguage: zh-tw
 hasCJKLanguage: true # 字數統計計入中文
 theme: PaperMod
-paginate: 5
+paginate: 10
 params:
   env: production
   homeInfoParams:
