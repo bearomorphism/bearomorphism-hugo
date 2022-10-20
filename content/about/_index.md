@@ -10,6 +10,8 @@ title: "About"
 
 * [LeetCode](https://leetcode.com/Mrbear666/)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Mrbear666)](https://leetcode.com/Mrbear666/)
+
 ## 此網誌待辦事項
 
 - [ ] 整理環島心得
