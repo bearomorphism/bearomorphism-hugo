@@ -8,7 +8,7 @@ params:
   homeInfoParams:
     Title: 嗨，你今天過得好嗎？
     Content: 要看比較有知識點的東西可以看看[這裡](/blog)，或者點一些底下的 icon
-  ShowShareButtons: true
+  # ShowShareButtons: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowFullTextinRSS: true
