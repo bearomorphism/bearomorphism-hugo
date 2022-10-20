@@ -9,7 +9,6 @@ params:
     Title: Hi
     Content: 這裡還很亂，歡迎隨意看看
   ShowShareButtons: true
-  ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowFullTextinRSS: true
