@@ -28,6 +28,8 @@ params:
       url: "https://www.strava.com/athletes/33243038"
     - name: cv
       url: "https://drive.google.com/file/d/1qeMsSqrg8v4ka4Y4vy4CpF0oeV4aJxay/view"
+    - name: email
+      url: "mailto:bear890707@gmail.com"
 disqusShortname: yu-ting-hsiung
 outputs:
   home:
