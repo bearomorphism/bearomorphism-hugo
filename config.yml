@@ -73,3 +73,7 @@ menu:
       name: Notes
       url: /posts/notes/
       weight: 70
+    - identifier: log
+      name: Log
+      url: /posts/log/
+      weight: 80
