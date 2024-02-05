@@ -3,21 +3,11 @@ title: "About"
 date: 2022-10-20
 ---
 
-在台北唸書的高雄人，喜愛研究最新科技技術、數學、騎自行車，最近開始的新興趣是武術。覺得閱讀他人的人生能夠充實自己。
-
-這裡大概會放一些生活雜記或者體悟。
-
 ## Random Stuff
 
 * [LeetCode](https://leetcode.com/Mrbear666/)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Mrbear666)](https://leetcode.com/Mrbear666/)
-
-## 此網誌待辦事項
-
-- [ ] 整理環島心得
-- [ ] 整理創業經驗
-- [ ] 整理這幾年當助教和授課講師的心得
 
 ## Quotes
 
