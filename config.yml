@@ -1,5 +1,4 @@
 title: Yu-Ting Hsiung
-baseurl: /
 languageCode: zh-TW
 defaultContentLanguage: zh-tw
 hasCJKLanguage: true # 字數統計計入中文
@@ -8,8 +7,8 @@ paginate: 10
 params:
   env: production
   homeInfoParams:
-    Title: 嗨，你今天過得好嗎？
-    Content: 要逛逛的話可以看看[這裡](/posts/blog)，或者點一些底下的 icon
+    Title: Biography
+    Content: Yu-Ting Hsiung is a full-stack developer at Synology. Double major in Computer Science and Mathematics at National Taiwan University. Interested in web development and data analysis. Open to coffee chat.
   # ShowShareButtons: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
