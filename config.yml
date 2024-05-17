@@ -8,7 +8,7 @@ params:
   env: production
   homeInfoParams:
     Title: Biography
-    Content: Yu-Ting Hsiung is a full-stack developer at Synology. Double major in Computer Science and Mathematics at National Taiwan University. Interested in web development and data analysis. Open to coffee chat.
+    Content: Yu-Ting Hsiung is a full-stack developer at Synology. Double major in Computer Science and Mathematics at National Taiwan University. Interested in web development and data analysis. Used to be a teaching assistant for the courses "Data Structure and Algorithms", "Algorithm Design and Analysis" in NTU CSIE, and "Calculus" in NTU Math. Open to coffee chat.
   # ShowShareButtons: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
