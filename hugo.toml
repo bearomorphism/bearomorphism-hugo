@@ -1,4 +1,4 @@
 baseURL = 'https://bearomorphism.pages.dev/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = 'PaperMod'
