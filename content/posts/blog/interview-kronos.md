@@ -1,7 +1,7 @@
 ---
 title: "[面試心得] Kronos"
 date: 2022-09-20T17:38:29+08:00
-tags: ["面試"]
+tags: ["job interview"]
 ---
 
 ## 緣起

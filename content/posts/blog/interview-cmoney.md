@@ -1,7 +1,7 @@
 ---
 title: "[面試心得] CMoney (全曜財經)"
 date: 2022-09-27T18:23:49+08:00
-tags: ["面試"]
+tags: ["job interview"]
 ---
 
 ## 時間軸
