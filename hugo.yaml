@@ -3,7 +3,8 @@ title: Tim Hsiung's blog
 languageCode: en-US
 hasCJKLanguage: true # 字數統計計入中文
 theme: ["PaperMod"]
-paginate: 20
+pagination:
+  pagerSize: 20
 outputs:
   home:
     - HTML
