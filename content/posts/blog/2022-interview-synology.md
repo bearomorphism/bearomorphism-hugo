@@ -1,6 +1,5 @@
 ---
 date: 2025-01-31T12:06:29+08:00
-draft: true
 title: 2022 Synology 群暉科技 面試心得 校招快速面試
 tags: ["job interview"]
 ---
