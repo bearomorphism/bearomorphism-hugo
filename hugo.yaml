@@ -3,6 +3,7 @@ title: Tim Hsiung's blog
 languageCode: en-US
 hasCJKLanguage: true # 字數統計計入中文
 theme: ["PaperMod"]
+enableGitInfo: true
 pagination:
   pagerSize: 20
 outputs:
@@ -31,6 +32,8 @@ languages:
           weight: 10
 params:
   comments: true
+  showReadingTime: true
+  showWordCount: true
   homeInfoParams:
     Title: Hi there
   socialIcons:
