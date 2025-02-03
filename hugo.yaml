@@ -4,6 +4,12 @@ languageCode: en-US
 hasCJKLanguage: true # 字數統計計入中文
 theme: ["PaperMod"]
 enableGitInfo: true
+frontmatter:
+  lastmod:
+    - lastmod
+    - ":git"
+    - date
+    - publishDate
 pagination:
   pagerSize: 20
 outputs:
