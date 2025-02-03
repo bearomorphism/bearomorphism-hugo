@@ -1,6 +1,7 @@
 ---
 date: 2025-02-01T10:32:50+08:00
 title: 2024 Microsoft Taiwan 台灣微軟 面試心得
+tags: ["job interview"]
 ---
 
 最一開始也是看到了有興趣的缺，然後請台灣微軟的朋友幫忙投內推。
