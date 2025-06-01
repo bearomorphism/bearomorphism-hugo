@@ -48,6 +48,3 @@ params:
       url: "https://www.strava.com/athletes/33243038"
     - name: email
       url: "mailto:bear890707@gmail.com"
-services:
-  disqus:
-    shortname: yu-ting-hsiung
