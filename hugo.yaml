@@ -34,7 +34,7 @@ params:
   showReadingTime: true
   showWordCount: true
   homeInfoParams:
-    Title: Hi there
+    Title: 隨意逛逛吧 這裡還沒整理好
   socialIcons:
     - name: github
       url: "https://github.com/bearomorphism"
