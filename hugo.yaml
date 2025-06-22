@@ -34,7 +34,9 @@ params:
   showReadingTime: true
   showWordCount: true
   homeInfoParams:
-    Title: 隨意逛逛吧 這裡還沒整理好
+    Title: 雜記 隨筆
+    content: |
+      毫無組織性地亂放東西上來
   socialIcons:
     - name: github
       url: "https://github.com/bearomorphism"
