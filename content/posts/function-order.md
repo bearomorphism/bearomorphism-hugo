@@ -22,8 +22,8 @@ math: true
 
 We denote "the order of a type $T$" as $ord(T)$.
 1. For any primitive type $R$, $ord(R) := 0$.
-2. For any product type $(A_1, ..., A_n)$, $ord((A_1, ..., A_n)) := max(ord(A_1), ..., ord(A_n))$.
-3. For any types $A$, $B$, $ord(A \to B) := max(ord(A) + 1, ord(B))$.
+2. For any product type $(A_1, ..., A_n)$, $ord((A_1, ..., A_n)) := \max(ord(A_1), ..., ord(A_n))$.
+3. For any types $A$, $B$, $ord(A \to B) := \max(ord(A) + 1, ord(B))$.
 
 我其實不是很確定有沒有更通用的用語，每篇文獻或課本會用不太一樣的詞，總之名詞定義大家先看得懂就好。
 
