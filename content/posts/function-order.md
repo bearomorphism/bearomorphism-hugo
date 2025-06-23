@@ -54,10 +54,10 @@ We denote "the order of a type $T$" as $ord(T)$.
 
 **Quiz**
 
-1. What is $ord(int)$?
-2. What is $ord(int -> int)$?
-3. What is $ord(type(array.map))$, where `array.map` is the javascript function?
-4. What is $ord(type(filter)) = ord((Any -> boolean) -> List)$, where `filter` is the built-in python function?
+1. What is `ord(int)`?
+2. What is `ord(int -> int)`?
+3. What is `ord(type(array.map))`, where `array.map` is the javascript function?
+4. What is `ord(type(filter)) = ord((Any -> boolean) -> List)`, where `filter` is the built-in python function?
 
 ---
 
