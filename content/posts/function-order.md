@@ -45,7 +45,10 @@ We denote "the order of a type $T$" as $ord(T)$.
 
 如果讀到這邊還是不懂 product 或同構定義也沒差，請容我草草帶過，細講大概會扯到抽象代數或範疇論。
 
-這邊的 takeaway 就是，最簡單的那些 type 的 order 是 0，而每多抽象一層（這個 type 作為某個 function 的參數型別）的話，order 就會加一。
+這邊的 takeaway 就是
+
+- 最簡單的那些 type 的 order 是 0
+- 每多抽象一層（這個 type 作為某個 function 的參數型別）的話，order 就會加一。
 
 ---
 
