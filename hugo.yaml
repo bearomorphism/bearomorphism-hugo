@@ -41,9 +41,9 @@ params:
   showReadingTime: true
   showWordCount: true
   homeInfoParams:
-    Title: 雜記 隨筆
+    Title: Tim Hsiung's blog
     content: |
-      毫無組織性地亂放東西上來
+      有的沒的，想到什麼就寫什麼。
   socialIcons:
     - name: github
       url: "https://github.com/bearomorphism"
